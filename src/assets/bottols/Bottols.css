@@ -1,0 +1,8 @@
+.bottols{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.bottol img{
+    width : 20rem;
+}
